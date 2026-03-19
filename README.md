@@ -17,4 +17,4 @@ Sales performance is relatively balanced across regions, with slight concentrati
 
 In order to use the interactive dashboard: Download the .pbix file, Open Power BI Desktop, interact with the filters on the dashboard
 
-Feel free to reach out for feedback or collaboration opportunities @ zabeeadilyar@gmail.com
+Feel free to reach out for insight or collaboration opportunities @ zabeeadilyar@gmail.com
